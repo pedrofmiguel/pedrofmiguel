@@ -23,8 +23,7 @@ Here are some ideas to get you started:
   📫 Wanna talk? email me at pedrofmiguel@outlook.pt
 </p>
 
-###
-<p align="left">Things I work with 🤓</p>
+## Things I work with 🤓
 
 
 <div align="left">
