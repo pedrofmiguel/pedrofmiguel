@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   💙 Interested in Creative Coding, design, and learning as much as I can about frontend in general<br>
   🚀 basketball enthusiast & comic book/manga nerd<br><br>
   🌱 I’m currently learning WebGl, Three.js and 3d Modeling
-  📫 Wanna talk? email me at pedrofmiguel@outlook.pt  [pedrofmiguel@outlook.pt](mailto:pedrofmiguel@outlook.pt)
+  📫 Wanna talk? email me at pedrofmiguel@outlook.pt
 </p>
 
 ###
