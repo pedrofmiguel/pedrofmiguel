@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <p align="left">🎧 Currently typing to 🎧</p>
 
 ###
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/obarrier">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=obarrier&count=5" alt="Spotify recently played"  />
   </a>
