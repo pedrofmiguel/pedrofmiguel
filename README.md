@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   👨‍💻 Frontend Developer based in Porto<br>
-  🌱 Interested in Creative Coding, design, and learning as much as I can about frontend in general<br>
-  🚀 Climbing, Crossfit and Basketball enthusiast<br> 
+  🌱 Interested in Creative Coding, design, and building products that fit my daily life<br>
   📫 Wanna talk? email me at pedrofmiguel@outlook.pt<br> 
 </p>
 
